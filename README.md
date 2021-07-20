@@ -3,7 +3,7 @@
 </h1>
 
 ## :page_with_curl: Sobre
-API criada na Alura Challenge de BackEnd em que o objetivo é desenvolver uma plataforma para compartilhamento de vídeos. A plataforma deve deve permitir ao usuário montar playlists com links para seus vídeos preferidos, separados por categorias.
+API criada na **Alura Challenge de BackEnd** em que o objetivo é desenvolver uma plataforma para compartilhamento de vídeos. A plataforma deve deve permitir ao usuário montar playlists com links para seus vídeos preferidos, separados por categorias.
 
 ## :desktop_computer: Tecnologia Usadas
 | Nome                                          |Versão         |
@@ -29,4 +29,4 @@ API criada na Alura Challenge de BackEnd em que o objetivo é desenvolver uma pl
 3. Seleciona a solução AluraChallenge.sln para visualizar os arquivos. Todos os pacotes já são instalados automaticamente, basta conferir no Gerenciador de Pacotes do NuGet.
 
 ### Configurando o MySQL
-Como o user=root e password=root, definido por padrão, basta se atentar à esses parâmetros. No arquivo appsetting.json dentro da solução, é possível mudar esses parâmetros na linha 'VideoConnection'.
+Como o user=root e password=root, definido por padrão, basta se atentar à esses parâmetros. No arquivo _**appsetting.json**_ dentro da solução, é possível mudar esses parâmetros na linha 'VideoConnection'.
