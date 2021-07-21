@@ -26,7 +26,7 @@ API criada na **Alura Challenge de BackEnd** em que o objetivo é desenvolver um
 ## :rocket: Como executar esse Projeto ?
 1. Abra o Visual Studio e na tela inicial selecione a opção de clonar o repositório.
 2. No campo "Local do Repositório" insira o repositório: https://github.com/caiovelp/AluraChallenge.git e clique em Clonar.
-3. Seleciona a solução AluraChallenge.sln para visualizar os arquivos. Todos os pacotes já são instalados automaticamente, basta conferir no Gerenciador de Pacotes do NuGet.
+3. Seleciona a solução AluraChallenge.sln para visualizar os arquivos. Todos os pacotes já são instalados automaticamente.
 
 ### Configurando o MySQL
 Como o user=root e password=root, definido por padrão, basta se atentar à esses parâmetros. No arquivo _**appsetting.json**_ dentro da solução, é possível mudar esses parâmetros na linha 'VideoConnection'.
