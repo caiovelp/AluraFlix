@@ -10,7 +10,7 @@ API criada na **Alura Challenge de BackEnd** em que o objetivo é desenvolver um
 | -------------                                 |:-------------:|
 | [C#](https://dotnet.microsoft.com/)           |   9.0         |
 | [ASP.Net CORE](https://dotnet.microsoft.com/) |   5.0         |
-| [MySQ](https://www.mysql.com/)                |   8.0         |
+| [MySQL](https://www.mysql.com/)                |   8.0         |
 
 ## :card_index_dividers: Trello Cards - Desafios
 ### Semana 1
